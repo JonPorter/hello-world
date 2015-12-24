@@ -1,6 +1,6 @@
 # hello-world
-all things code
-it all began one day short of 39 years ago
-then in the 80s I breiefly coded in Basic
-flash forward thirty something years
-and here we are
+All things code:
+It all began one day short of 39 years ago.
+Then in the 80s I breiefly coded in Basic.
+Flash forward thirty something years.
+And here we are.
